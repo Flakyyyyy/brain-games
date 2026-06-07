@@ -45,7 +45,7 @@ npm link
 brain-games
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
 
 ---
 
@@ -57,7 +57,7 @@ brain-games
 brain-even
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
 
 ---
 
@@ -69,7 +69,7 @@ brain-even
 brain-calc
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
 
 ---
 
@@ -81,7 +81,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
 
 ---
 
@@ -93,7 +93,7 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
 
 ---
 
