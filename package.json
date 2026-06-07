@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MikhailManzik/frontend-project-lvl1.git"
+    "url": "git+https://github.com/Flakyyyyy/brain-games.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MikhailManzik/frontend-project-lvl1/issues"
+    "url": "https://github.com/Flakyyyyy/brain-games.git"
   },
-  "homepage": "https://github.com/MikhailManzik/frontend-project-lvl1#readme",
+  "homepage": "https://github.com/Flakyyyyy/brain-games.git",
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
