@@ -29,9 +29,11 @@
 ```bash
 git clone https://github.com/Flakyyyyy/brain-games.git
 cd brain-games
-make install
-sudo npm link
+npm install
+npm link
 ```
+
+> На Windows запускайте `npm link` от имени администратора.
 
 ---
 

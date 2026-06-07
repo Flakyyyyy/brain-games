@@ -18,12 +18,12 @@
     "type": "git",
     "url": "git+https://github.com/Flakyyyyy/brain-games.git"
   },
-  "author": "",
+  "author": "Flakyyyyy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Flakyyyyy/brain-games.git"
+    "url": "https://github.com/Flakyyyyy/brain-games/issues"
   },
-  "homepage": "https://github.com/Flakyyyyy/brain-games.git",
+  "homepage": "https://github.com/Flakyyyyy/brain-games#readme",
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
