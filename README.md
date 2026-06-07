@@ -105,4 +105,4 @@ brain-progression
 brain-prime
 ```
 
-[![asciicast](https://asciinema.org/a/PLACEHOLDER.svg)](https://asciinema.org/a/PLACEHOLDER)
+
